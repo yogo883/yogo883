@@ -3,7 +3,7 @@
 <h1 align="center">배고파요🍽️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&size=30&lines= 치킨 엽떡 마라탕" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&size=30&lines=치킨" />
 </p>
 
 <!-- ================== MAIN CAT GIF ================== -->
@@ -22,14 +22,6 @@
 🍳 Kimchi Fried Rice Specialist  
 
 💡 I like building things, solving problems, and vibing with my cat  
-
----
-
-<!-- ================== FUN CAT GIF ================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="200"/>
-</p>
 
 ---
 
