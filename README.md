@@ -1,12 +1,11 @@
 <!-- ================== TOP BANNER ================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&section=header&width=100%25" />
 
 <h1 align="center">🐱 Hi, I'm HyunYoung</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=AI+%26+Biochemistry+Double+Major;Cat+Lover+🐾;Kimchi+Fried+Rice+Master🍳;Future+Innovator" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&size=30&lines=Welcome" />
 </p>
-
 ---
 
 <!-- ================== MAIN CAT GIF ================== -->
