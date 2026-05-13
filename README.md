@@ -3,7 +3,7 @@
 <h1 align="center">배고파요🍽️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&size=30&lines=치킨엽떡마라탕샤브샤브오리고기장어덮밥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&size=30&lines= 치킨 엽떡 마라탕" />
 </p>
 
 <!-- ================== MAIN CAT GIF ================== -->
