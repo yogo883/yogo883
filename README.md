@@ -1,5 +1,5 @@
 <!-- ================== TOP BANNER ================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=220&section=header&text=HyunYoung&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250" />
 
 <h1 align="center">🐱 Hi, I'm HyunYoung</h1>
 
