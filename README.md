@@ -1,5 +1,4 @@
 <!-- ================== TOP BANNER ================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FFC0CB&height=300&section=header&animation=twinkling" />
 
 <h1 align="center"> Hi, I'm HyunYoung</h1>
 
@@ -39,11 +38,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,github" />
 </p>
-
----
-
-<!-- ================== DIVIDER ================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB6C1,100:87CEFA&height=2" />
 
 ---
 
