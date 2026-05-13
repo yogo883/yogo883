@@ -1,12 +1,11 @@
 <!-- ================== TOP BANNER ================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&section=header&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FFC0CB&height=300&section=header&animation=twinkling" />
 
-<h1 align="center">🐱 Hi, I'm HyunYoung</h1>
+<h1 align="center"> Hi, I'm HyunYoung</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&size=30&lines=Welcome" />
 </p>
----
 
 <!-- ================== MAIN CAT GIF ================== -->
 <p align="center">
