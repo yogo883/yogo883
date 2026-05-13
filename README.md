@@ -1,6 +1,6 @@
 <!-- ================== TOP BANNER ================== -->
 
-<h1 align="center"> Hi, I'm HyunYoung</h1>
+<h1 align="center">🍽️배고파요</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&size=30&lines=Welcome" />
