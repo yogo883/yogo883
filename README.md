@@ -14,14 +14,11 @@
 ---
 
 <!-- ================== ABOUT ================== -->
-## 🐾 About Me
+## 💡 About Me
 
 🎓 Studying at **Chungnam National University**  
-🧠 Double major in **AI & Biochemistry**  
-🐱 Cat lover (seriously)  
+🧠 Double major in **AI & Biochemistry**   
 🍳 Kimchi Fried Rice Specialist  
-
-💡 I like building things, solving problems, and vibing with my cat  
 
 ---
 
@@ -45,10 +42,7 @@
 ---
 
 <!-- ================== FOOTER CAT ================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150"/>
-</p>
 
 <p align="center">
-  🐾 Thanks for visiting 🐾
+   Thanks for visiting 
 </p>
