@@ -1,19 +1,17 @@
-<!-- ================== HEADER ================== -->
+<!-- ================== TOP BANNER ================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=220&section=header&text=HyunYoung&fontSize=45&fontColor=ffffff" />
+
 <h1 align="center">🐱 Hi, I'm HyunYoung</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&center=true&vCenter=true&lines=AI+%26+Biochemistry+Double+Major;Cat+Lover+🐾;Future+Innovator" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_ID&color=ffb6c1"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=AI+%26+Biochemistry+Double+Major;Cat+Lover+🐾;Kimchi+Fried+Rice+Master🍳;Future+Innovator" />
 </p>
 
 ---
 
-<!-- ================== CAT IMAGE ================== -->
+<!-- ================== MAIN CAT GIF ================== -->
 <p align="center">
-  <img src="고양이이미지URL" width="250"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -23,18 +21,18 @@
 
 🎓 Studying at **Chungnam National University**  
 🧠 Double major in **AI & Biochemistry**  
-🐱 Living with my cat  
-🍳 Kimchi Fried Rice Chef  
+🐱 Cat lover (seriously)  
+🍳 Kimchi Fried Rice Specialist  
 
-💡 Curious about AI, science, and creative projects  
+💡 I like building things, solving problems, and vibing with my cat  
 
 ---
 
-<!-- ================== FUN SECTION ================== -->
-## 🧶 Fun Facts
-- 🐾 My debugging partner = my cat
-- 💻 Code + 🐱 = happiness
-- 🍳 Best skill: 김치볶음밥
+<!-- ================== FUN CAT GIF ================== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="200"/>
+</p>
 
 ---
 
@@ -46,17 +44,27 @@
 
 ---
 
+<!-- ================== DIVIDER ================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB6C1,100:87CEFA&height=2" />
+
+---
+
 <!-- ================== CONTACT ================== -->
 ## 📫 Contact
+
 <p align="center">
   <a href="mailto:tjdus0250@naver.com">
-    <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ================== FOOTER ================== -->
+<!-- ================== FOOTER CAT ================== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150"/>
+</p>
+
 <p align="center">
   🐾 Thanks for visiting 🐾
 </p>
